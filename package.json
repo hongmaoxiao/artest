@@ -1,0 +1,22 @@
+{
+  "name": "artest",
+  "version": "0.1.0",
+  "description": "use three.ar.js to make an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hongmaoxiao/artest.git"
+  },
+  "keywords": [
+    "ar"
+  ],
+  "author": "xiaomao Feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongmaoxiao/artest/issues"
+  },
+  "homepage": "https://github.com/hongmaoxiao/artest#readme"
+}
