@@ -20,11 +20,13 @@
   },
   "homepage": "https://github.com/hongmaoxiao/artest#readme",
   "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
     "three": "^0.88.0",
     "three.ar.js": "^0.1.5"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
-    "eslint": "^4.10.0"
+    "eslint": "^4.10.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
