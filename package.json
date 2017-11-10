@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/hongmaoxiao/artest/issues"
   },
-  "homepage": "https://github.com/hongmaoxiao/artest#readme"
+  "homepage": "https://github.com/hongmaoxiao/artest#readme",
+  "dependencies": {
+    "three": "^0.88.0",
+    "three.ar.js": "^0.1.5"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.10.0"
+  }
 }
